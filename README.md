@@ -30,7 +30,7 @@ $ git clone https://github.com/DilvaQueiroz/letmeask.git
 ```sh
 $ npm i
 ```
-**Inicie o projeto **
+**Inicie o projeto**
 ```sh
 $ npm start
 ```
