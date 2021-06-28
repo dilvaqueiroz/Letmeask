@@ -31,6 +31,7 @@ $ git clone https://github.com/DilvaQueiroz/letmeask.git
 $ npm i
 ```
 **Inicie o projeto **
+```sh
 $ npm start
 ```
 
