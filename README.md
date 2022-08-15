@@ -22,7 +22,7 @@
 **Clone o projeto**
 
 ```bash
-$ git clone https://github.com/DilvaQueiroz/letmeask.git
+$ git clone https://github.com/dilvaqueiroz/letmeask.git
 ```
 
 **Para Instalar todas as dependências do projeto use:**
