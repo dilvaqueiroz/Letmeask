@@ -1,10 +1,10 @@
 # Letmeask
 
 <h4 align="center">
-  Letmeask é uma plataforma construída para permitir que você reúna perguntas de seus espectadores durante a transmissão e que eles votem em quais são as melhores perguntas para você responder.
+ Letmeask is a platform built to allow you to gather questions from your viewers during a broadcast, and let them vote on which questions are the best for you to answer.
 </h4>
 
-## Tecnologias
+## Technologies
 
 - [ReactJS](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
@@ -15,29 +15,29 @@
 ## 🔥 Preview
 ![Home](https://user-images.githubusercontent.com/48795370/123716691-9ba27d00-d851-11eb-9fff-f9abed3656d1.png)
 
-### 🚀 Instalação
+### 🚀 Installation
 
-- Você precisa ter instalado o [Node.js](https://nodejs.org/en/download/) para rodar esse projeto.
+-You need to have installed the [Node.js](https://nodejs.org/en/download/) to run this project.
 
-**Clone o projeto**
+**Clone the project**
 
 ```bash
 $ git clone https://github.com/dilvaqueiroz/letmeask.git
 ```
 
-**Para Instalar todas as dependências do projeto use:**
+**To install all project dependencies, use:**
 
 ```sh
 $ npm i
 ```
-**Inicie o projeto**
+**Start the project**
 ```sh
 $ npm start
 ```
 
-O aplicativo estará disponível para acesso em seu navegador `http://localhost:3000`
+The application will be available for access in your browser `http://localhost:3000`
 
 ---
-### 💻 Projeto
-Este é um projeto desenvolvido durante a ** [Next Level Week] (https://nextlevelweek.com/) **, apresentado por ** [@Rocketseat] (https://github.com/Rocketseat)
-Feito com 💜 por Dilva Queiroz na NLW #6 👋
+### 💻 Project
+This is a project developed during ** [Next Level Week] (https://nextlevelweek.com/) **, presented by ** [@Rocketseat] (https://github.com/Rocketseat)
+Made with 💜 by Dilva Queiroz at NLW #6 👋
